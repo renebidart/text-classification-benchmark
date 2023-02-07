@@ -1,5 +1,5 @@
-# Text Classification Benchmark
-What is the best transformer model for text classification? We compare a number of models in terms of inference speed accuracy tradeoff on a set of 15 text classification datasets.
+# Text Classification Speed vs. Accuracy Benchmark
+We compare transformer models in terms of inference speed accuracy tradeoff on a set of 15 text classification datasets.
 
 ![image](results/avg_speed_acc.png)
 
